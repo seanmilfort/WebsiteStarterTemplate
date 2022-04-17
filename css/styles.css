@@ -1,0 +1,59 @@
+/*
+
+https://coolors.co/palette/333333-2b2d42-8d99ae-edf2f4-ef233c-d90429
+#333333 - Jet
+#2B2D42 - Space Gadet
+#8D99AE - Manatee
+#EDF2F4 - Alice Blue
+#EF233C - Imperial Red
+
+*/
+
+/* Global styles
+----------------------------------*/
+html {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  /* color: #EDF2F4;
+  background-color: #333333; */
+  margin: 0;
+  padding: 0;
+  /* font-family: "Raleway", sans-serif; */
+  overflow-x: hidden;
+}
+
+img {
+  width: 300px;
+  align-content: center;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.content-wrap {
+  max-width: 800px;
+  width: 85%;
+  margin: 0 auto;
+  padding: 60px 0;
+}
+
+
+/*Responsive
+---------------------------------------*/
+@media screen and (min-width: 700px) {
+
+}
+
+@media screen and (max-width: 699px) {
+  
+}
